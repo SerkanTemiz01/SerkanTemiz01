@@ -4,7 +4,7 @@
 ### <div align="center">I'm Serkan , a full-time full-stack developer 👨‍💻 </div>  
   
 <br>
-- 🔭 I've been currently working on Bilge Adam Akademi as Intern
+
   
 
 - 🌱 I've been currently learning MVC,API and React
