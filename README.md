@@ -46,7 +46,9 @@
 </a>
  
 </div>  
+  <br/>
   
+  <img src="https://camo.githubusercontent.com/88177c1c6158c1468103ee42bd269f3f94452561497aa7f8087da9dcceddda4f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617973656e7572616c74696e736f792673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964653d636f6e74726962732c697373756573" alt="UtkuGlsvn's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SerkanTemiz01&amp;show_icons=true&amp;count_private=true&amp;hide=contribs,issues" style="max-width: 100%;">
 
 <br/>  
 
