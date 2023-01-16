@@ -59,7 +59,4 @@
 <br/>  
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SerkanTemiz01&&style=flat-square" align="center" />
-</div>  
- 
+
