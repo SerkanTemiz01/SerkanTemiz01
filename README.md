@@ -59,6 +59,6 @@
 <br/>  
 
 
-![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanTemiz01&show_icons=true&theme=radical)
+![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanTemiz01&show_icons=true&theme=dark)
 
 
