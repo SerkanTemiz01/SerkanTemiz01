@@ -54,7 +54,7 @@
 
 
 ## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanTemiz01)](https://github.com/SerkanTemiz01)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanTemiz01&theme=dark&show_icons=true)
 <br/>  
 <br/>  
 <br/>  
