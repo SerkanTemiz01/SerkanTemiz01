@@ -62,3 +62,6 @@
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanTemiz01&show_icons=true&theme=tokyonight)
 
 
+
+### Terminalden commit yapma işlemleri 
+![image](https://user-images.githubusercontent.com/115589345/213875509-6d4214e9-7cb9-43f6-add2-d1ff2e775d2d.png)
